@@ -94,7 +94,7 @@ feed:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://gitcafe.com/xiabin19891230/xiabin19891230.git
+  repository: git@gitcafe.com:xiabin19891230/xiabin19891230.git
   branch: gitcafe-pages
 
 plugins:
