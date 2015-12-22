@@ -37,7 +37,7 @@
 <% if (!index && post.comments && config.disqus_shortname){ %>
 <section id="comments">
   <!-- 多说评论框 start -->
-  <div class="ds-thread" data-thread-key="<%= post._id %>" data-title="<%= post.title %>" data-url="<%- post.permalink %>"></div>
+  <div class="ds-thread" data-thread-key="<%= post.layout %>-<%= post.slug %>" data-title="<%= post.title %>" data-url="<%- post.permalink %>"></div>
 <!-- 多说评论框 end -->
 </section>
 <% } %>
