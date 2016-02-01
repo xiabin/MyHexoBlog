@@ -1,6 +1,6 @@
 title: DataMapper vs Active Record
 date: 2016-01-28 15:49:31
-categories: ORM
+categories: Design pattern
 tags: [ORM]
 ---
 当我在开发过程中涉及到与数据库操作的时候，我们可能会考虑到需要用到一些ORM框架。可以认为ORM是介于应用程序和数据之间的媒介。通过ORM我们可以减少对于数据库增删改查的工作量,以及避免一些复杂的操作。
@@ -100,7 +100,7 @@ EntityManager::persist($user);
 
 ### 总结
 我相信在实战中我们肯定会用到这两种模式的ORM，我们不能说谁最好，只能说谁最合适。由于选择了一种模式而导致应该程序出现问题，我们不能觉得是模式的问题，而是你选取的问题。通过上面的介绍我们可以在项目中，根据实际的业务去选择的更适合的ORM工具去解决我们的实际问题。
-这里我们说的更多是偏向理论，下次我会和大家一起讨论下一些关于ORM的最佳实践。
+这里我们说的更多是偏向理论，关于实战的案例可以移步[实战中Active Record和Data Mapper的选择](/2016/02/01/orm-note2/)。
 
 ### 参考文献
 [What’s the difference between Active Record and Data Mapper?](http://culttt.com/2014/06/18/whats-difference-active-record-data-mapper/)
