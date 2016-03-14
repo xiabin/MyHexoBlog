@@ -99,12 +99,14 @@ marked:
   smartLists: true
   smartypants: true
 
+
+skip_render: README.md
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: git@gitcafe.com:xiabin1989/xiabin1989.git
-  branch: gitcafe-pages
+  repository: git@git.coding.net:xiabin/xiabin.git
+  branch: coding-pages
 
 plugins:
 - hexo-generator-feed
