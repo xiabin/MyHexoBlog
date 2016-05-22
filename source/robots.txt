@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Allow: /archives/
+Disallow: /css
+Disallow: /fancybox
+Disallow: /img
+Disallow: /js
+Sitemap: http://www.xiabin.com/sitemap.xml
+Sitemap: http://www.xiabin.com/baidusitemap.xml
