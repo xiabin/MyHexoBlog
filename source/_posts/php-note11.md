@@ -152,9 +152,14 @@ npm run pro
     * 代码check
     * 一些列代码静态检查
 
-## 项目地址:
-    [CI_FastDev](https://github.com/xiabin/CI_FastDev)
+## 安装:
+* #### github:
+[CI_FastDev](https://github.com/xiabin/CI_FastDev)
 
+* #### composer
+ ```java
+    composer require xiabin/ci_fastdev
+ ```
 
 ## 参考文献:
 * [Vue.js](http://cn.vuejs.org/)
