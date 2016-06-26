@@ -4,7 +4,7 @@ categories: [PHP]
 tags: [PHP,Mac]
 ---
 
-这些安装包主要是安装最新版的 PHP 7.0/5.6/5.5/5.4/5.3 。可适用于与T OS X 10.6 (aka Snow Leopard), OS X 10.7 (aka Lion) and OS X 10.8 (aka Mountain Lion) and OS X 10.9 (aka Mavericks) and OS X 10.10 (aka Yosemite) and OS X 10.11 (aka El Capitan) 。安装的路径为`/usr/local/php5`.它会帮你安装许多常用的扩展,以及该扩展在php.ini下的设置,这些扩展主要是基于[Liip](https://www.liip.ch/en)的开发环境。该环境十分适用在` Symfony 2`框架下。里面有一套符合php最佳实践的php.ini配置。
+这些安装包主要是安装最新版的 PHP 7.0/5.6/5.5/5.4/5.3 。可适用于与T OS X 10.6 (aka Snow Leopard), OS X 10.7 (aka Lion) and OS X 10.8 (aka Mountain Lion) and OS X 10.9 (aka Mavericks) and OS X 10.10 (aka Yosemite) and OS X 10.11 (aka El Capitan) 。安装的路径为`/usr/local/php5`.它会帮你安装许多常用的扩展,以及该扩展在php.ini下的设置,这些所安装的扩展主要是基于[Liip](https://www.liip.ch/en)的开发环境中使用的。该包十分适用在` Symfony 2`框架下,里面有一套符合php最佳实践的php.ini配置。
 <!--more-->
 
 
