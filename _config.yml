@@ -75,6 +75,7 @@ theme: landscape
 
 plugins:
   hexo-generator-feed
+  hexo-math
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
