@@ -31,7 +31,7 @@ fb_admins:
 fb_app_id:
 
 # Duoshuo
-duoshuo_shortname: reqianduan
+duoshuo_shortname: xiabin
 
 # Baidu share
 baidushare: true
