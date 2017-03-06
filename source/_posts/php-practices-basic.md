@@ -16,7 +16,7 @@ tags: [PHP 最佳实践]
 * 三元运算符(Ternary operators)
 * 变量声明(Variable declarations)
 
-
+<!--more-->
 
 
 ## 比较运算符(Comparison operators)
@@ -250,11 +250,11 @@ EOD;                        // 最后的 'EOD'必须放在新的一行而且是�
 *ps:Nowdoc syntax和Heredoc syntax语法上的区别:*
 ```
 Nowdoc syntax
->>>`EOD`
+<<<`EOD`
 EOD
 
 Heredoc syntax
->>>EOD
+<<<EOD
 EOD
 ```
 *而且没有固定说非要EOD来放在开头和结尾*
