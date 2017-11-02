@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-#  随笔: /tags/随笔/
+  随笔: /tags/随笔/
 
 # SubNav
 subnav:
@@ -63,12 +63,12 @@ toc_empty_wording: '目录，不存在的…'
 top: true
 
  Miscellaneous
-#baidu_analytics: ''
+baidu_analytics: '6158e67e14db33077086e63b85094bfc'
 #google_analytics: ''
 favicon: /favicon.ico
 
 #你的头像url
-avatar: "https://avatars1.githubusercontent.com/u/7226564?s=400&u=0812345c3b9971664d0122d6a291163d6e750a8f&v=4"
+avatar: "http://7xokym.com1.z0.glb.clouddn.com/avatar.jpeg"
 
 #是否开启分享
 share_jia: true
